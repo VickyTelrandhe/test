@@ -1,0 +1,19 @@
+{
+    "name": "finoux/dboperation",
+    "description": "This project handle all operation of DB like getting sp name and perform operation and return result",
+    "type": "project",
+    "license": "Finoux",
+    "authors": [
+        {
+            "name": "Vicky Telrandhe",
+            "email": "vickytelrandhe1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Finoux\\DB\\": "src/"
+        }
+    }
+}
